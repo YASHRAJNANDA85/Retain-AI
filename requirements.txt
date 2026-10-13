@@ -1,0 +1,31 @@
+# ============================================================
+# Customer Segmentation & Retention Analysis
+# Python Dependencies
+# ============================================================
+
+# --- Core Data Science ---
+pandas==2.3.3
+numpy==2.4.4
+scipy==1.17.1
+
+# --- Visualization ---
+matplotlib==3.10.9
+seaborn==0.13.2
+plotly==6.7.0
+
+# --- Machine Learning ---
+scikit-learn==1.8.0
+xgboost==3.2.0
+imbalanced-learn==0.14.1
+
+# --- Model Explainability ---
+shap==0.51.0
+
+# --- Survival Analysis ---
+lifelines==0.30.3
+
+# --- Utilities ---
+joblib==1.5.3
+
+# --- Deployment ---
+streamlit==1.57.0
